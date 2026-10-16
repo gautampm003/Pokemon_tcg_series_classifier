@@ -1,0 +1,21 @@
+{
+  "Base": 0,
+  "Black & White": 1,
+  "Call of Legends": 2,
+  "Diamond & Pearl": 3,
+  "E-Card": 4,
+  "EX": 5,
+  "Gym": 6,
+  "HeartGold & SoulSilver": 7,
+  "Legendary Collection": 8,
+  "McDonald's Collection": 9,
+  "Mega Evolution": 10,
+  "Neo": 11,
+  "POP": 12,
+  "Platinum": 13,
+  "Scarlet & Violet": 14,
+  "Sun & Moon": 15,
+  "Sword & Shield": 16,
+  "Trainer kits": 17,
+  "XY": 18
+}

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset images and archives
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Training outputs and caches
+checkpoints/
+outputs/
+runs/
+.ipynb_checkpoints/
+
+# Environment and editor files
+.env
+.vscode/
+.idea/
+Pokemon TCG/
